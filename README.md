@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 👋 Hi, I’m @saidmaratov
+- 👀 I’m interested in Go.
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Backend Development
+- 📫 How to reach me ... here
 
 <!--
 **SaidMaratov/SaidMaratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
