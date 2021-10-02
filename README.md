@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 👋 Hi, I’m @saidmaratov
-- 👀 I’m interested in Go.
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on Backend Development
+- 👀 I’m interested in Go, Rust and DevOps.
+- 🌱 I’m currently learning Rust and Kubernetes.
+- 💞️ I’m looking to collaborate on Backend Development and DevOps.
 - 📫 How to reach me ... here
 
 <!--
